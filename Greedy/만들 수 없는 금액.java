@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class greedy4 {
+public class Main {
 	public static int n;
 	public static ArrayList<Integer> arrayList = new ArrayList<>();
 
