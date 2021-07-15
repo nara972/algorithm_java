@@ -1,10 +1,9 @@
-package implementation;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Main3 {
+public class Main {
 	
 	public static String str;
 	public static ArrayList<Character> result = new ArrayList<Character>();
