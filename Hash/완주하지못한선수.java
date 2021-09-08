@@ -1,6 +1,7 @@
 import java.util.HashMap;
 
 public class Solution {
+    
     public static void main(String[] args) {
         String[] participant = { "mislav", "stanko", "mislav", "ana" };
         String[] completion = { "stanko", "ana", "mislav" };
